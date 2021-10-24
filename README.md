@@ -1,0 +1,2 @@
+# youtrackBeginner
+Youtrack beginner guideline
