@@ -10,8 +10,9 @@
     - [Check](#15-check)
 - [Agile Board](#2-agile-board)
     - [Overview](#21-overview)
-    - [New Swimelane](#22-new-swimlane)
-    - [Technology Stack](#23-technology-stack)
+    - [Sprints](#22-sprints)
+    - [New Swimelane](#23-new-swimlane)
+    - [Technology Stack](#24-technology-stack)
 - [Specific Requirements](#3-specific-requirements)
     - [Functionality](#31-functionality)
     - [Usability](#32-usability)
@@ -73,9 +74,11 @@ Check if you did not have forgotten to set up:
 Here you see a quick overview over an agile board
 ![alt text](https://i.imgur.com/qY27ULU.png "Agile Board - Overview")
 
-### 2.2 New Swimlane
+### 2.2 Sprints
 
-### 2.3 Technology Stack
+### 2.3 New Swimlane
+
+### 2.4 Cards
 
 ## 3. Specific Requirements
 
