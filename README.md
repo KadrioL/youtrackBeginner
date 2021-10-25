@@ -106,7 +106,7 @@ You can configure some things on your board to do this go to the board settings 
 If you add a new type then you can also create for example a swimlane with the type Bug, Epic, ...
 But is this really necessary? You decide.
 
-So the last thing is the chart settings. To see the changes you do here just check the Board (Sprint) diagram like [Overview](#21-overview). So now you see the chart and the chart settings. It should look like this:
+So the last thing is the chart settings. To see the changes you do here, just check the Board (Sprint) diagram like [Overview](#21-overview). So now you see the chart and the chart settings. It should look like this:
 ![alt text](https://i.imgur.com/RpoeRrv.png "Chart and Chart Settings")
 Here you can choose the type, the calculation and the issue filter. This is a really minimalistic chart. To get better ones we will create a report in the next big point.
 
