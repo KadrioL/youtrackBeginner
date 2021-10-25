@@ -4,7 +4,7 @@
 - [Table of contents](#table-of-contents)
 - [Project](#1-project)
     - [Create a Project](#11-create-a-project)
-    - [Scope](#12-scope)
+    - [Team](#12-team)
     - [Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
     - [References](#14-references)
     - [Overview](#15-overview)
@@ -32,8 +32,14 @@
 ### 1.1 Create a Project
 To create a project you go to projects -> create project.
 ![alt text](https://i.imgur.com/Mew2ZuL.png "Creating a Project")
+Now you can name your project, give it an ID, choose the project type and give it a description.
 
-### 1.2 Scope
+### 1.2 Team
+The first important thing to do is to invite people that you want to work with in your project. So to do this you have to go to the project settings.
+You can find it if you click on your project in the projects tab.
+![alt text](https://i.imgur.com/qakeBNC.png "Project Settings")
+Now you see the project settings on the right
+![alt text](https://i.imgur.com/vlou2oo.png "Project Settings")
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
