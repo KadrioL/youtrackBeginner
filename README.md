@@ -111,7 +111,12 @@ Here you can choose the type, the calculation and the issue filter. This is a re
 
 ## 3. Report and Dashboard
 
-### 3.1 Functionality
+### 3.1 Create a report
+To create a report simply click on "Reports" and then you see different variations of reports. You can choose which type. So this is an example for a burndown chart.
+![alt text](https://i.imgur.com/vmiqygD.png "Burndown")
+I think the settings a self explaining. The most important setting is the "Original estimation field". Issue count and Story points make the most sense I think to choose it to show a good report. You can also select "Estimation" but then make sure to set the second "Original estimation field" to Time Spent. Otherwise you can left the seoncd "Original estimation field" empty. So here you see my report from the picture above.
+![alt text](https://i.imgur.com/4MvnXu4.png "Burndown example")
+So in the top right you can manually recalculate your report and even change the settings. On the y-axis you the "Original estimation field" and on the x-axis it is the timeline. 
 
 
 #### 3.1.1 Posting a session
