@@ -15,7 +15,7 @@
     - [Cards](#24-cards)
     - [Board Time Tracking](#25-board-time-tracking)
     - [Board Settings](#26-board-settings)
-- [Specific Requirements](#3-specific-requirements)
+- [Report and Dashboard](#3-report and dashboard)
     - [Functionality](#31-functionality)
     - [Usability](#32-usability)
     - [Reliability](#33-reliability)
@@ -109,7 +109,7 @@ So the last thing is the chart settings. To see the changes you do here just che
 ![alt text](https://i.imgur.com/RpoeRrv.png "Chart and Chart Settings")
 Here you can choose the type, the calculation and the issue filter. This is a really minimalistic chart. To get better ones we will create a report in the next big point.
 
-## 3. Specific Requirements
+## 3. Report and Dashboard
 
 ### 3.1 Functionality
 
