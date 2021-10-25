@@ -121,7 +121,7 @@ So in the top right you can manually recalculate your report and even change the
 
 
 ### 3.2 Dashboard
-
+Dash
 #### 3.2.1 No training time needed
 
 #### 3.2.2 Familiar Feeling
