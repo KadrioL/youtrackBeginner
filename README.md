@@ -10,7 +10,7 @@
     - [Check](#15-check)
 - [Agile Board](#2-agile-board)
     - [Overview](#21-overview)
-    - [Use Case Diagram](#22-use-case-diagram)
+    - [New Swimelane](#22-new-swimlane)
     - [Technology Stack](#23-technology-stack)
 - [Specific Requirements](#3-specific-requirements)
     - [Functionality](#31-functionality)
@@ -73,7 +73,7 @@ Check if you did not have forgotten to set up:
 Here you see a quick overview over an agile board
 ![alt text](https://i.imgur.com/qY27ULU.png "Agile Board - Overview")
 
-### 2.2 Use Case Diagram
+### 2.2 New Swimlane
 
 ### 2.3 Technology Stack
 
