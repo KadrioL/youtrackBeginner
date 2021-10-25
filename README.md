@@ -30,6 +30,8 @@
 ## 1. Project
 
 ### 1.1 Create a Project
+To create a project you go to projects -> create project.
+![alt text](https://i.imgur.com/Mew2ZuL.png "Creating a Project")
 
 ### 1.2 Scope
 
