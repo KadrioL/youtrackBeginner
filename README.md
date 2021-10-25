@@ -7,11 +7,11 @@
     - [Team](#12-team)
     - [Roles](#13-roles)
     - [Time Tracking](#14-time-tracking)
-    - [heck](#15-check)
-- [Overall Description](#2-overall-description)
-    - [Vision](#21-vision)
+    - [Check](#15-check)
+- [Agile Board](#2-agile-board)
+    - [Overview](#21-overview)
     - [Use Case Diagram](#22-use-case-diagram)
-	- [Technology Stack](#23-technology-stack)
+    - [Technology Stack](#23-technology-stack)
 - [Specific Requirements](#3-specific-requirements)
     - [Functionality](#31-functionality)
     - [Usability](#32-usability)
@@ -67,9 +67,9 @@ Check if you did not have forgotten to set up:
 - Time Tracking
 
 
-## 2. Overall Description
+## 2. Agile Board
 
-### 2.1 Vision
+### 2.1 Overview
 
 ### 2.2 Use Case Diagram
 
