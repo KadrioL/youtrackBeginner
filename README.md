@@ -3,7 +3,7 @@
 ## Table of contents
 - [Table of contents](#table-of-contents)
 - [Project](#1-project)
-    - [Purpose](#11-purpose)
+    - [Create a Project](#11-create-a-project)
     - [Scope](#12-scope)
     - [Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
     - [References](#14-references)
@@ -29,7 +29,7 @@
 
 ## 1. Project
 
-### 1.1 Purpose
+### 1.1 Create a Project
 
 ### 1.2 Scope
 
