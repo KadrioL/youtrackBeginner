@@ -11,8 +11,9 @@
 - [Agile Board](#2-agile-board)
     - [Overview](#21-overview)
     - [Sprints](#22-sprints)
-    - [New Swimelane](#23-new-swimlane)
-    - [Technology Stack](#24-technology-stack)
+    - [New Swimlane](#23-new-swimlane)
+    - [Cards](#24-cards)
+    - [Board Time Tracking](#25-board-time-tracking)
 - [Specific Requirements](#3-specific-requirements)
     - [Functionality](#31-functionality)
     - [Usability](#32-usability)
@@ -91,6 +92,11 @@ Maybe you noticed that you can only create a swimlane with the type "User Story"
 To create a new card you simply click "new card" in a swimlane and it will create a card in the swimlane.
 ![alt text](https://i.imgur.com/ZFBOlcs.png "Card")
 I recommend to fill up every red marked setting.
+
+### 2.5 Board Time Tracking
+So now we can use the time tracking. If you drag and drop a card in the state "In Progress" a timer will start. If you drag and drop it into another column (Open, To Verify, Done) the timer will automatically stop and add the time to the current card.
+Now you can click on the card and see the history. Which team member worked at the task for how much time. It even shows you a little circle if you are in the estimation that you have set before or if the task is overdue.
+![alt text](https://i.imgur.com/9ldJclf.png "Time Tracking Card")
 
 ## 3. Specific Requirements
 
