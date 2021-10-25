@@ -5,7 +5,7 @@
 - [Project](#1-project)
     - [Create a Project](#11-create-a-project)
     - [Team](#12-team)
-    - [Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
+    - [Roles](#13-roles)
     - [References](#14-references)
     - [Overview](#15-overview)
 - [Overall Description](#2-overall-description)
@@ -40,8 +40,11 @@ You can find it if you click on your project in the projects tab.
 ![alt text](https://i.imgur.com/qakeBNC.png "Project Settings")
 Now you see the project settings on the right
 ![alt text](https://i.imgur.com/vlou2oo.png "Project Settings")
+Now you click on "Team" and can add new team members over the "Add members" button.
+You can only add users which are registered to the youtrack server.
+If you add an user he gets the role developer.
 
-### 1.3 Definitions, Acronyms and Abbreviations
+### 1.3 Roles
 
 ### 1.4 References
 
