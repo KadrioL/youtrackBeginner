@@ -75,6 +75,9 @@ Here you see a quick overview over an agile board
 ![alt text](https://i.imgur.com/aHf1mlD.png "Agile Board - Overview")
 
 ### 2.2 Sprints
+So everytime you work in your project you are in a sprint. So sprints are usually a period of time between 1 - 4 weeks. So to create a new sprint you click on the current sprint and click "new sprint".
+![alt text](https://i.imgur.com/YAFERbc.png "New Sprint")
+Now you can give the sprint a name, a goal and setup a period of time. If you create it, the sprint is automatically chosen and you can start it (if you want) or create every sprint before the project even started.
 
 ### 2.3 New Swimlane
 
