@@ -14,6 +14,8 @@
     - [New Swimlane](#23-new-swimlane)
     - [Cards](#24-cards)
     - [Board Time Tracking](#25-board-time-tracking)
+    - [Board Settings](#25-board-settings)
+    - [Board Time Tracking](#25-board-time-tracking)
 - [Specific Requirements](#3-specific-requirements)
     - [Functionality](#31-functionality)
     - [Usability](#32-usability)
@@ -98,6 +100,8 @@ So now we can use the time tracking. If you drag and drop a card in the state "I
 Now you can click on the card and see the history. Which team member worked at the task for how much time. It even shows you a little circle if you are in the estimation that you have set before or if the task is overdue.
 ![alt text](https://i.imgur.com/9ldJclf.png "Time Tracking Card")
 
+### 2.6 Board Settings
+You can configure some things on your board to do this go to the board settings you can find it in the picture at [Overview](#21-overview).
 ## 3. Specific Requirements
 
 ### 3.1 Functionality
