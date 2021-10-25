@@ -72,7 +72,7 @@ Check if you did not have forgotten to set up:
 
 ### 2.1 Overview
 Here you see a quick overview over an agile board
-![alt text](https://i.imgur.com/FGphAs3.png "Agile Board - Overview")
+![alt text](https://i.imgur.com/aHf1mlD.png "Agile Board - Overview")
 
 ### 2.2 Sprints
 
