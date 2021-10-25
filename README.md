@@ -6,7 +6,7 @@
     - [Create a Project](#11-create-a-project)
     - [Team](#12-team)
     - [Roles](#13-roles)
-    - [References](#14-references)
+    - [Time Tracking](#14-time-tracking)
     - [Overview](#15-overview)
 - [Overall Description](#2-overall-description)
     - [Vision](#21-vision)
