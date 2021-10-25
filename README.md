@@ -49,7 +49,15 @@ Over grant role you can give different users or groups a role in your project. I
 Here you go to Access Management -> Roles.
 ![alt text](https://i.imgur.com/3NBp5Ai.png "Roles")
 Here you see a list of all the roles on the youtrack server and their permissions. If you are the owner of the server you can also add roles to the server.
-### 1.4 References
+
+### 1.4 Time Tracking
+So before you can go to the agile board(s) of your project I would recommend that you enable time tracking. It allows you to automatically track the time if a card/task is in progress. So to enable time tracking you go again to the project settings and choose time tracking. Now you set the settings like the following picture:
+![alt text](https://i.imgur.com/YekUMSh.png "Time Tracking Settings")
+After that you go to workflow (also in the project settings) and click on "Attach workflows". Then you search for the "In Progress Work Timer".
+![alt text](https://i.imgur.com/AfvIKTT.png "Workflows - In Progress Work Timer")
+If you have never set up this work flow before you will get a "requires setup" notification next to the "In Progress Work Timer". Now click on the "+" right next to the workflow and go to the rules which have this notification. Simply click "configure project" and it will configure it automatically.
+![alt text](https://i.imgur.com/DO82CBh.png "Workflow setup")
+
 
 ### 1.5 Overview
 
