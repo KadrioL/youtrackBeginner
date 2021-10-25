@@ -15,7 +15,6 @@
     - [Cards](#24-cards)
     - [Board Time Tracking](#25-board-time-tracking)
     - [Board Settings](#26-board-settings)
-    - [Board Time Tracking](#27-board-time-tracking)
 - [Specific Requirements](#3-specific-requirements)
     - [Functionality](#31-functionality)
     - [Usability](#32-usability)
