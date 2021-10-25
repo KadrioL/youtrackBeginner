@@ -35,17 +35,20 @@ To create a project you go to projects -> create project.
 Now you can name your project, give it an ID, choose the project type and give it a description.
 
 ### 1.2 Team
-The first important thing to do is to invite people that you want to work with in your project. So to do this you have to go to the project settings.
-You can find it if you click on your project in the projects tab.
+The first important thing to do is to invite people that you want to work with in your project. So to do this you have to go to the project settings. You can find it if you click on your project in the projects tab.
 ![alt text](https://i.imgur.com/qakeBNC.png "Project Settings")
 Now you see the project settings on the right
 ![alt text](https://i.imgur.com/vlou2oo.png "Project Settings")
-Now you click on "Team" and can add new team members over the "Add members" button.
-You can only add users which are registered to the youtrack server.
-If you add an user he gets the role developer.
+Now you click on "Team" and can add new team members over the "Add members" button. You can only add users which are registered to the youtrack server. If you add an user he gets the role developer.
 
 ### 1.3 Roles
-
+Every project has different roles. As mentioned above added members get the developer role automatically. If you want to change roles you go again to the project settings and and click on "Access". Here you see your team members and their roles.
+![alt text](https://i.imgur.com/1Lh8BIL.png "Access sttings")
+Over grant role you can give different users or groups a role in your project. If you want to know more about the roles you can go to the administration settings of the youtrack server.
+![alt text](https://i.imgur.com/GRIeQTt.png "Server administration settings")
+Here you go to Access Management -> Roles.
+![alt text](https://i.imgur.com/3NBp5Ai.png "Roles")
+Here you see a list of all the roles on the youtrack server and their permissions. If you are the owner of the server you can also add roles to the server.
 ### 1.4 References
 
 ### 1.5 Overview
