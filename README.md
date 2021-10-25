@@ -70,6 +70,8 @@ Check if you did not have forgotten to set up:
 ## 2. Agile Board
 
 ### 2.1 Overview
+Here you see a quick overview over an agile board
+![alt text](https://i.imgur.com/qY27ULU.png "Agile Board - Overview")
 
 ### 2.2 Use Case Diagram
 
