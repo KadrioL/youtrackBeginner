@@ -80,8 +80,17 @@ So everytime you work in your project you are in a sprint. So sprints are usuall
 Now you can give the sprint a name, a goal and setup a period of time. If you create it, the sprint is automatically chosen and you can start it (if you want) or create every sprint before the project even started.
 
 ### 2.3 New Swimlane
+If you click on new swimlane in the bottom right of the page you can create a new swimlane (who could have guessed?). So then it opens a window with different settings for the swimlane.
+![alt text](https://i.imgur.com/6p3yzWl.png "Swimlane")
+I recommend to fill up every red marked setting.
+Now you can also see the fields estimation and time spent which would not been there if we did not set up the time tracking settings.
+Maybe you noticed that you can only create a swimlane with the type "User Story" I will get to that later in the board settings.
 
 ### 2.4 Cards
+
+To create a new card you simply click "new card" in a swimlane and it will create a card in the swimlane.
+![alt text](https://i.imgur.com/ZFBOlcs.png "Card")
+I recommend to fill up every red marked setting.
 
 ## 3. Specific Requirements
 
