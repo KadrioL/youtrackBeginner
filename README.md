@@ -15,7 +15,7 @@
     - [Cards](#24-cards)
     - [Board Time Tracking](#25-board-time-tracking)
     - [Board Settings](#26-board-settings)
-- [Report and Dashboard](#3-report and dashboard)
+- [Report and Dashboard](#3-report-and-dashboard)
     - [Functionality](#31-functionality)
     - [Usability](#32-usability)
     - [Reliability](#33-reliability)
