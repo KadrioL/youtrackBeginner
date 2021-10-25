@@ -7,7 +7,7 @@
     - [Team](#12-team)
     - [Roles](#13-roles)
     - [Time Tracking](#14-time-tracking)
-    - [Overview](#15-overview)
+    - [heck](#15-check)
 - [Overall Description](#2-overall-description)
     - [Vision](#21-vision)
     - [Use Case Diagram](#22-use-case-diagram)
@@ -59,7 +59,13 @@ If you have never set up this work flow before you will get a "requires setup" n
 ![alt text](https://i.imgur.com/DO82CBh.png "Workflow setup")
 
 
-### 1.5 Overview
+### 1.5 Check
+Now you should have set up your project well enough to actually use the tool now to a certain extent.
+Check if you did not have forgotten to set up:
+- Your team
+- The roles of the team members
+- Time Tracking
+
 
 ## 2. Overall Description
 
