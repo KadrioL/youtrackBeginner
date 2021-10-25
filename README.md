@@ -17,7 +17,7 @@
     - [Board Settings](#26-board-settings)
 - [Report and Dashboard](#3-report-and-dashboard)
     - [Create a Report](#31-create-a-report)
-    - [Usability](#32-usability)
+    - [Dashboard](#32-dashboard)
     - [Reliability](#33-reliability)
     - [Performance](#34-performance)
     - [Supportability](#35-supportability)
@@ -120,36 +120,7 @@ I think the settings are self explaining. The most important setting is the "Ori
 So in the top right you can manually recalculate your report and even change the settings. On the y-axis you see the "Original estimation field" and on the x-axis you see the timeline. 
 
 
-#### 3.1.1 Posting a session
-
-#### 3.1.2 Getting an overview
-
-
-#### 3.1.3 Creating an account
-
-#### 3.1.4 Logging in
-
-
-#### 3.1.5 Logging out
-
-
-#### 3.1.6 Joining a session
-
-#### 3.1.7 Keeping track of your sessions
-
-#### 3.1.8 Leaving a session
-
-#### 3.1.9 Finding a session
-
-#### 3.1.10 Getting in touch
-
-#### 3.1.11 Presenting yourself and checking out others
-
-#### 3.1.12 Reporting users and managing friends
-
-#### 3.1.13 Banning users and deleting posts
-
-### 3.2 Usability
+### 3.2 Dashboard
 
 #### 3.2.1 No training time needed
 
