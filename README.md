@@ -2,7 +2,7 @@
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
-- [Introduction](#1-introduction)
+- [Project](#1-project)
     - [Purpose](#11-purpose)
     - [Scope](#12-scope)
     - [Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
@@ -27,7 +27,7 @@
     - [Applicable Standards](#312-applicable-standards)
 - [Supporting Information](#4-supporting-information)
 
-## 1. Introduction
+## 1. Project
 
 ### 1.1 Purpose
 
