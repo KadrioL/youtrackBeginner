@@ -105,12 +105,19 @@ Here you can choose the type, the calculation and the issue filter. This is a re
 ### 3.1 Create a Report
 To create a report simply click on "Reports" and then you see different variations of reports. You can choose which type. So this is an example for a burndown chart.
 ![alt text](https://i.imgur.com/vmiqygD.png "Burndown")
-I think the settings are self explaining. The most important setting is the "Original estimation field". Issue count and Story points make the most sense I think to choose it to show a good report. You can also select "Estimation" but then make sure to set the second "Original estimation field" to Time Spent. Otherwise you can left the seoncd "Original estimation field" empty. So here you see my report from the picture above.
+I think the settings are self explaining. The most important setting is the "Original estimation field". Issue count and Story points make the most sense I think to choose it to show a good report. You can also select "Estimation" but then make sure to set the second "Original estimation field" to "Time Spent". Otherwise you can left the seoncd "Original estimation field" empty. So here you see my report from the picture above.
 ![alt text](https://i.imgur.com/4MvnXu4.png "Burndown example")
 So in the top right you can manually recalculate your report and even change the settings. On the y-axis you see the "Original estimation field" and on the x-axis you see the timeline. 
 
 
 ### 3.2 Dashboard Overview
-Dash
+So here you see a little overview of a example dashboard. You can add widgets if you want and share your dashboard to other users or groups. You can also get a list view of a project where you can see every user story and subtasks of it in a clear view.
+![alt text](https://i.imgur.com/k80mNSx.png "Dashboard example")
+Here is a picture of the list view.
+![alt text](https://i.imgur.com/UWdRbwc.png "Project List View")
+
 
 ## 4. Supporting Information
+You can also link your GitHub repository to the project to do commits through YouTrack. To do this go to the project settings and click on VCS.
+![alt text](https://i.imgur.com/qH7P8X4.png "Link GitHub")
+Now on "New VCS integration..." button you can link your GitHub repository.
