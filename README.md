@@ -1,4 +1,4 @@
-# DHBWorld - Software Requirements Specification 
+# Youtrack - Beginner Guideline
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
@@ -18,16 +18,6 @@
 - [Report and Dashboard](#3-report-and-dashboard)
     - [Create a Report](#31-create-a-report)
     - [Dashboard](#32-dashboard)
-    - [Reliability](#33-reliability)
-    - [Performance](#34-performance)
-    - [Supportability](#35-supportability)
-    - [Design Constraints](#36-design-constraints)
-    - [Online User Documentation and Help System Requirements](#37-on-line-user-documentation-and-help-system-requirements)
-    - [Purchased Components](#38-purchased-components)
-    - [Interfaces](#39-interfaces)
-    - [Licensing Requirements](#310-licensing-requirements)
-    - [Legal, Copyright And Other Notices](#311-legal-copyright-and-other-notices)
-    - [Applicable Standards](#312-applicable-standards)
 - [Supporting Information](#4-supporting-information)
 
 ## 1. Project
@@ -122,50 +112,5 @@ So in the top right you can manually recalculate your report and even change the
 
 ### 3.2 Dashboard
 Dash
-#### 3.2.1 No training time needed
-
-#### 3.2.2 Familiar Feeling
-
-### 3.3 Reliability
-
-#### 3.3.1 Availability
-
-#### 3.3.2 Defect Rate
-
-### 3.4 Performance
-
-#### 3.4.1 Capacity
-
-#### 3.4.2 Storage 
-
-#### 3.4.3 App perfomance / Response time
-
-### 3.5 Supportability
-
-#### 3.5.1 Coding Standards
-
-#### 3.5.2 Testing Strategy
-
-### 3.6 Design Constraints
-
-### 3.7 On-line User Documentation and Help System Requirements
-
-### 3.8 Purchased Components
-
-### 3.9 Interfaces
-
-#### 3.9.1 User Interfaces
-
-#### 3.9.2 Hardware Interfaces
-
-#### 3.9.3 Software Interfaces
-
-#### 3.9.4 Communication Interfaces
-
-### 3.10 Licensing Requirements
-
-### 3.11 Legal, Copyright, and Other Notices
-
-### 3.12 Applicable Standards
 
 ## 4. Supporting Information
