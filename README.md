@@ -20,6 +20,7 @@
     - [Dashboard Overview](#32-dashboard-overview)
 - [Supporting Information](#4-supporting-information)
     - [GitHub Integration](#41-github-integration)
+    - [Enable Registration on your YouTrack Server](#42-enable-registration-on-your-youtrack-server)
 
 ## 1. Project
 
@@ -125,3 +126,7 @@ You can also link your GitHub repository to the project to do commits through Yo
 Now on "New VCS integration..." button you can link your GitHub repository. So after that you can do a commit if you double click on a card and then click add commit.
 ![alt text](https://i.imgur.com/57QdyAp.png "YouTrack Git Commit")
 
+### 4.2 Enable Registration on your YouTrack Server
+To do this go the admin settings on the server and click on Access Management -> Auth Modules.
+![alt text](https://i.imgur.com/xL6DvsH.png "Auth Modules")
+Then there should be the "Hub" Auth Module. Simply click on it and enable the registration. Thats it.
