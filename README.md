@@ -19,6 +19,7 @@
     - [Create a Report](#31-create-a-report)
     - [Dashboard Overview](#32-dashboard-overview)
 - [Supporting Information](#4-supporting-information)
+    - [GitHub Integration](#41-github-integration)
 
 ## 1. Project
 
@@ -118,6 +119,9 @@ Here is a picture of the list view.
 
 
 ## 4. Supporting Information
+### 4.1 GitHub Integration
 You can also link your GitHub repository to the project to do commits through YouTrack. To do this go to the project settings and click on VCS.
 ![alt text](https://i.imgur.com/qH7P8X4.png "Link GitHub")
-Now on "New VCS integration..." button you can link your GitHub repository.
+Now on "New VCS integration..." button you can link your GitHub repository. So after that you can do a commit if you double click on a card and then click add commit.
+![alt text](https://i.imgur.com/57QdyAp.png "YouTrack Git Commit")
+
