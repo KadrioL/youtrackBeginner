@@ -17,7 +17,7 @@
     - [Board Settings](#26-board-settings)
 - [Report and Dashboard](#3-report-and-dashboard)
     - [Create a Report](#31-create-a-report)
-    - [Dashboard](#32-dashboard)
+    - [Dashboard Overview](#32-dashboard-overview)
 - [Supporting Information](#4-supporting-information)
 
 ## 1. Project
@@ -110,7 +110,7 @@ I think the settings are self explaining. The most important setting is the "Ori
 So in the top right you can manually recalculate your report and even change the settings. On the y-axis you see the "Original estimation field" and on the x-axis you see the timeline. 
 
 
-### 3.2 Dashboard
+### 3.2 Dashboard Overview
 Dash
 
 ## 4. Supporting Information
