@@ -130,3 +130,5 @@ Now on "New VCS integration..." button you can link your GitHub repository. So a
 To do this go the admin settings on the server and click on Access Management -> Auth Modules.
 ![alt text](https://i.imgur.com/xL6DvsH.png "Auth Modules")
 Then there should be the "Hub" Auth Module. Simply click on it and enable the registration. Thats it.
+
+Hope this is helpful!
