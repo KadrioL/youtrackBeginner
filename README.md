@@ -49,7 +49,7 @@ So before you can go to the agile board(s) of your project I would recommend tha
 ![alt text](https://i.imgur.com/YekUMSh.png "Time Tracking Settings")
 After that you go to workflow (also in the project settings) and click on "Attach workflows". Then you search for the "In Progress Work Timer".
 ![alt text](https://i.imgur.com/AfvIKTT.png "Workflows - In Progress Work Timer")
-If you have never set up this work flow before you will get a "requires setup" notification next to the "In Progress Work Timer". Now click on the "+" right next to the workflow and go to the rules which have this notification. Simply click "configure project" and it will configure it automatically.
+If you have never set up this work flow before you will get a "requires setup" notification next to the "In Progress Work Timer". On the right half you see a detailed view with 2 Rules. Simply click on Apply fixes to use time tracking.
 ![alt text](https://i.imgur.com/8TCdKiv.png) "Workflow setup")
 
 
